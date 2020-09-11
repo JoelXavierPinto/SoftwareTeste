@@ -16,5 +16,10 @@ namespace App01
         {
             InitializeComponent();
         }
+
+        private void cmdOk_Click(object sender, EventArgs e)
+        {
+            //txtResultado.Text = Calculo.Divisao();
+        }
     }
 }
